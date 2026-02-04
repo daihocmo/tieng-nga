@@ -7,9 +7,15 @@ repo_url: https://github.com/daihocmo/tieng-nga
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 'guide.md'
-  - 'Tài nguyên': 'resources.md'
- 
+  - 'Hướng dẫn': 
+    - 'Tự học Tiếng Nga': 'guide.md'
+    - 'Đọc Tiếng Nga': 'reading.md'
+    - 'Hướng dẫn đơn ngữ': 'monolingual.md'
+  - 'Yomitan':
+    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+  - 'Tài nguyên': 
+    - 'Tài nguyên tự học': 'resources.md'
+    - 'Nội dung Tiếng Nga': 'recommendations.md' 
 theme:
   palette:
     # Palette toggle for light mode

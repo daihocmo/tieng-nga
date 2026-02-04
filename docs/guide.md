@@ -1,16 +1,18 @@
 # Tự học Tiếng Nga
 
-Một hướng dẫn tự học Tiếng Nga được viết lại từ hướng dẫn [My guide to learning Russian through watching and listening to comprehensible input.](https://old.reddit.com/r/russian/comments/1mp2no4/here_is_my_guide_to_learning_russian_through/) trên Reddit.
+Đây là một hướng dẫn (lộ trình) tự học Tiếng Nga thông qua Comprehensible Input (Nội dung dễ hiểu) và Immersion, _hoàn toàn miễn phí_.
 
-Bạn cần đọc: [Lộ trình & phương pháp tự học ngoại ngữ](/ngoai-ngu/guide/) trước khi bắt đầu đọc phần dưới đây.
+Bạn sẽ cần thời gian. _Rất nhiều thời gian_. Không thể học một ngôn ngữ chỉ trong một tháng, ai nói vậy thì chỉ nói vớ vẩn thôi. Điều quan trọng là phải học **liên tục mỗi ngày**, hoặc ít nhất là gần như vậy. Bạn cần xây dựng thói quen tiếp xúc thường xuyên với ngôn ngữ, đó là cách duy nhất để tiến bộ thật sự. Có nhiều ước tính ngoài kia về tổng số giờ cần để học một ngôn ngữ. Khi mình dành nhiều thời gian hơn mỗi ngày, mình tiến bộ nhanh hơn -- đơn giản vậy thôi.
 
-Đây là phương pháp mình đã dùng để bắt đầu học tiếng Nga. Nó dựa trên immersion (ngâm mình trong ngôn ngữ) và ưu tiên nghe trước, nhưng vẫn cần học thêm bảng chữ cái, từ vựng và ngữ pháp để việc học trơn tru hơn. Mọi tài nguyên ở đây đều miễn phí nhé!
+Bạn nên (_cần_) đọc [Hướng dẫn tự học ngoại ngữ đầy đủ này](https://daihocmo.github.io/ngoai-ngu/orca/giai-doan-0/) để hiểu về phương pháp học ngoại ngữ được trình bày trong trang này.
 
-## Cyrillic (Bảng chữ cái)
+## Nền tảng
 
-Một số hướng dẫn gợi ý bỏ qua Cyrillic và nhảy thẳng vào nghe (chí ít là theo cái bài post trên reddit là vậy). Cá nhân mình thấy như vậy hơi cực đoan. Cyrillic không khó — bạn chỉ cần khoảng 1 tuần để có thể hiểu được cơ bản. Đúng là phải mất nhiều năm mới đọc nhanh như người bản ngữ, nhưng việc nhận diện bảng chữ cái sớm sẽ giúp bạn đỡ bối rối về sau.
+### Cyrillic (Bảng chữ cái)
 
 ![](img/alphabet.png)
+
+_Nhìn qua bảng chữ cái Tiếng Nga phát_
 
 Tuy vậy, cần lưu ý: đọc quá nhiều quá sớm có thể làm hỏng phát âm. Chính tả tiếng Nga không ghi trọng âm, và nguyên âm thường bị biến đổi khi không nhấn. Nếu bạn quen đọc sai từ, sau này rất khó sửa. Vì thế:
 
@@ -18,102 +20,108 @@ Tuy vậy, cần lưu ý: đọc quá nhiều quá sớm có thể làm hỏng p
 - Tập trung vào NGHE trước.
 - Có thể đọc, nhưng cần ưu tiên nghe cho đến khi tai bạn quen dần với ngôn ngữ.
 
+_đây là một video_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pbznlAfmkKc?si=OTOsv7oX43ZXd9FC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Từ vựng
 
-Sau khi bạn biết bảng chữ cái và nắm sơ lược về chia động từ, đã đến lúc học từ vựng. Đừng chỉ học thuộc danh sách từ. Đọc một trang từ vựng hầu như không đọng lại. Điều hiệu quả là gọi nhớ chủ động — ép não phải _tự nhớ_ thì nó mới khắc sâu.
+Anki là một trong những ứng dụng ôn tập từ vựng mình _yêu thích nhất_. Đây là app flashcard cho phép bạn dùng bộ thẻ có sẵn hoặc tự tạo của riêng mình! ([Bấm vào đây](https://youtu.be/6BJgxHC3Yuc?si=Bsxo_8IPK9Wy7Go2) để tìm hiểu thêm về Anki và cách sử dụng).
 
-Vậy nên, mình gợi ý dùng Anki.
+![](img/anki-card1.png)
 
-- Bắt đầu với bộ thẻ có sẵn (500–1000 từ đầu tiên, hiện tại mình chưa tìm được bộ nào song ngữ Nga-Việt nên tạm thời để đó đã). Cách học + ôn tập Anki thì bạn có thể đọc trên mạng
-- Chuyển sang tự tạo thẻ khi bạn đã quen. Thêm từ và câu bạn gặp trong quá trình immersion. Điều này làm việc học trở nên _cá nhân_ và nhớ lâu hơn nhiều (Cái này được gọi là **mining**).
-
-Mẹo: Nhiều người khuyên nên dùng thẻ câu thay vì thẻ từ đơn. Một câu cho bạn thấy cách dùng từ, đồng thời giúp bạn hấp thụ ngữ pháp tự nhiên. 
-
-Dùng Memrise cũng được, nhưng về lâu dài Anki linh hoạt và mạnh mẽ hơn. Nếu chỉ chọn một công cụ, hãy chọn Anki.
+Mình sẽ dùng [Russian Core 5000](https://ankiweb.net/shared/info/613414639) trên Anki để học 5.000 từ phổ biến nhất (Bạn có thể chỉ cần học 1000 từ cơ bản nhất là được), rồi chuyển sang sentence mining (hay còn gọi là _đào câu_, đọc hướng dẫn về [Sentence Mining](/ngoai-ngu/sentence-mining/) để biết thêm chi tiết). Đây là kỹ thuật lấy từ và câu mới trực tiếp từ tài nguyên immersion bằng công cụ như [ASBplayer](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab?hl=en) ([Bấm vào đây](https://youtu.be/KxLRp1yd8Ro?si=cDGjOWdTygdl5ZpU) để xem hướng dẫn sentence mining bằng ASBplayer).
 
 ## Ngữ pháp
 
-Có người quá chú tâm vào bảng ngữ pháp. Có người thì bỏ qua hoàn toàn, chỉ hy vọng “ngấm” qua tiếp xúc. Mình nghĩ cách tốt nhất là ở giữa: học đủ để _nhận ra_ mình đang thấy gì, rồi để chi tiết dần dần ổn định qua immersion.
-
-Hãy bắt đầu với một khóa ngữ pháp cơ bản (mình sẽ gợi ý bên dưới), sau đó dùng website tham khảo khi bạn thắc mắc. Đừng cố nhớ từng quy tắc — chỉ cần quen đến mức câu tiếng Nga không còn giống như chuỗi âm thanh ngẫu nhiên.
+Hãy bắt đầu với một hướng ngữ pháp cơ bản (mình sẽ gợi ý bên dưới), sau đó dùng website tham khảo khi bạn thắc mắc. Đừng cố nhớ từng quy tắc — chỉ cần quen đến mức câu tiếng Nga không còn giống như chuỗi âm thanh ngẫu nhiên.
 
 Tài liệu ngữ pháp gợi ý:
 
+- [Học Tiếng Nga - Ngữ pháp (Việt Nga)](https://www.youtube.com/playlist?list=PLuhVQyudQQI5wdULjGvIx18VlOEFTZJRw)
 - [Russian Enthusiast](https://russianenthusiast.com/russian-grammar/) – rõ ràng và đầy đủ.
-- [MasterRussian](http://masterrussian.com/start_learning.htm) – đặc biệt là trang [chia động từ](http://masterrussian.com/verbs/conjugations.htm).
-- [RussianLearn](http://russianlearn.com/) – rất chi tiết, dùng tra cứu.
-- [WikiBooks Russian](https://en.wikibooks.org/wiki/Russian/Contents) – miễn phí và do cộng đồng xây dựng.
+- [RussianLearn](http://russianlearn.com/) – rất chi tiết, dùng để tra cứu.
 
-Mục tiêu tối thiểu khi mới học ngữ pháp:
+## Comprehensible Input (Nội dung dễ hiểu)
 
-- Nhận ra 6 cách (case) và đuôi thường gặp (ví dụ: cách công cụ thường kết thúc bằng -ом, cách giới từ thường bằng -е).
-- Nhớ đuôi tính từ ở cách chủ cách (nominative).
-- Nhận diện sơ lược động từ đang được chia.
+Đây là loại input mà bạn **hiểu được phần lớn nội dung**, dù vẫn có một vài từ hoặc cấu trúc bạn chưa biết. Nhờ ngữ cảnh, hình ảnh, hoặc kiến thức sẵn có, bạn vẫn đoán được ý chung của câu hoặc đoạn văn. Theo thời gian, não bộ sẽ tự động liên kết những "mảnh ghép còn thiếu" với ý nghĩa phù hợp --- mà không cần phải dịch từng từ.
 
-Đừng căng thẳng vì chưa nắm hết. Hãy coi ngữ pháp như chiếc đèn pin: chỉ cần đủ ánh sáng để soi những gì bạn thấy trong immersion.
+Nói cách khác: bạn không cần hiểu 100% mọi thứ. Chỉ cần hiểu đủ để theo kịp nội dung.
 
-## Immersion
+Đây chính là lý do Comprehensible Input rất hiệu quả: bạn tiếp xúc với ngôn ngữ trong ngữ cảnh thực tế, và từ vựng + cấu trúc mới được tiếp thu một cách tự nhiên.
 
-Bây giờ mới đến phần thú vị. Immersion là cách tốt nhất để tiếng Nga _bật sáng_ trong đầu bạn. Ban đầu, tiếng Nga sẽ chỉ như dòng âm thanh loạn xạ. Điều đó là bình thường. Theo thời gian, não bạn sẽ tự nhận ra mẫu — từ, đuôi, ngữ điệu — và việc nghe trở nên dễ dần.
+Đây là một số ví dụ, bạn hãy thử xem video sau đây của Comprehensible Russian:
 
-Mấu chốt: dùng tài liệu vừa _thú vị_ vừa _dễ hiểu_. Nếu chán, bạn sẽ bỏ cuộc.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJzaZGUEyWc?si=w8RaXsHCGVFxLoom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Bạn thấy thế nào, dễ hiểu không? Mình tin là kể cả bạn chưa học một từ vựng tiếng Nga nào, bạn cũng có thể hiểu được kha khá nội dung trong video.
+
+Các nguồn Comprehensible Input khác:
 
 ### Playlist cho người mới
 
-- [Comprehensible Russian – Inna](https://www.youtube.com/watch?v=KZcPkVxlRTc&list=PL3Pw2oUcx3zq1ZhChW5G7iraeBM6Ybbvx) – giọng êm, cực kỳ thân thiện cho người mới.
-- [Random Russian – Sveta](https://www.youtube.com/playlist?list=PL2fuPw4v2mi9f1ZdwJ813Uf1mJQxdfcqU) – vui nhộn, hấp dẫn mà không bị “trẻ con hóa”.
+- [Comprehensible Russian – Inna](https://www.youtube.com/watch?v=KZcPkVxlRTc&list=PL3Pw2oUcx3zq1ZhChW5G7iraeBM6Ybbvx)
+- [Random Russian – Sveta](https://www.youtube.com/playlist?list=PL2fuPw4v2mi9f1ZdwJ813Uf1mJQxdfcqU)
 
-### Kênh mình thích nhất cho người mới – trung cấp
+### Trung cấp
 
 - [Random Russian](https://www.youtube.com/@Sveta_RandomRussian) – podcast, tiểu phẩm, vlog.
 - [Comprehensible Russian](https://www.youtube.com/@ComprehensibleRussian) – nền tảng miễn phí của Inna.
 - [Inhale Russian](https://www.youtube.com/@InhaleRussian) – hài đen, nhiều chủ đề.
 - [Learning Russian the Natural Way](https://www.youtube.com/@LearningRussianIsEasy-1)
+- [In Russian from Afar](https://www.youtube.com/@InRussianFromAfar)
+- [In Simple Russian](https://www.youtube.com/@insimplerussian)
+- [Yaroslava Russian](https://www.youtube.com/@YaroslavaRussian)
+- [Russian with Max](https://www.youtube.com/@RussianWithMax).
 
-Các kênh khác cũng rất hay (đôi khi có tiếng Anh phụ đề):
-[In Russian from Afar](https://www.youtube.com/@InRussianFromAfar), [In Simple Russian](https://www.youtube.com/@insimplerussian), [Yaroslava Russian](https://www.youtube.com/@YaroslavaRussian), [Russian with Max](https://www.youtube.com/@RussianWithMax).
+## Immersion (Tiếp nhận ngôn ngữ)
 
-## Nghe
+Nếu bạn đã hoàn thành (hoặc gần xong) bộ thẻ từ vựng tiếng Nga cơ bản ở trên đồng thời có một lượng hiểu ngữ pháp tương đối, chúc mừng bạn nha. Có thể hiện tại bạn đang cảm thấy gần như không hiểu bất kì nội dung nào ở ngoại ngữ mục tiêu của mình. Điều này là hoàn toàn bình thường. Bạn vẫn chưa tiếp thụ được nhiều kiến thức về ngôn ngữ đấy nhưng bạn đã học được tương đối rồi đấy.
 
-Nghe là cốt lõi của phương pháp này. Hãy biến nó thành thói quen hằng ngày.
+Bây giờ là lúc bắt đầu hành trình thực sự. Bước này về cơ bản sẽ không bao giờ kết thúc vì càng tiêu thụ nội dung ngôn ngữ mục tiêu thì kĩ năng của bạn sẽ càng trở nên tốt hơn.
 
-Đặt mục tiêu thực tế: với mình, đó là “hiểu một podcast dành cho người học ngay lần nghe đầu trong vòng một năm.” Mình đạt được điều đó với Random Russian podcast của Sveta sau khoảng 5 tháng immersion.
+**Immersion. Immersion. Immersion**. Tiếp xúc với ngôn ngữ, _thật nhiều_.
 
-- [Random Russian podcast](https://www.youtube.com/playlist?list=PL2fuPw4v2mi-6BXcBPdvrE33b8JShGeiB)
-- [Comprehensible Russian podcast](https://www.russianwithmax.com/podcast/) – mình hiểu được cả tập sau khoảng 10 tháng.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r5Qxr8OGkaA?si=m1iKHkXpHxo97u8T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Khi nghe:
+_xem thử video này của MattVSJapan cho có động lực nhé :> nhìn setup mà mê_
 
-- Đừng lo nếu ban đầu như tiếng loạn. Não bạn _sẽ_ thích nghi.
-- Nghe lại nội dung bạn thích. Càng nghe nhiều lần, câu từ càng tự nhiên.
-- Pha trộn trình độ: chủ yếu nghe input dễ hiểu, nhưng thỉnh thoảng thử nội dung gốc (native), dù hiểu ít. Nó rèn tai bạn.
+Phần việc chính trong toàn bộ quá trình học của bạn là: học từ vựng + ngữ pháp, rồi thực hành immersion sử dụng comprehensible input (hoặc nội dung Tiếng Nga mà bạn yêu thích).
 
-## Đọc
+Immersion là khi bạn tương tác với nội dung tự nhiên bằng ngôn ngữ mục tiêu (ở đây là Tiếng Nga). Là nội dung KHÔNG hề được làm hoặc chọn lọc kỹ càng cho người học mà được làm bởi chính người bản ngữ cho người bản ngữ (_Theo thuật ngữ thì được gọi là input, nhưng mình thích dùng immersion hơn_).
 
-Khi đã có vốn từ khoảng 500–1000, hãy bắt đầu đọc. Đọc giúp biến từ thụ động thành chủ động, và củng cố ngữ pháp tự nhiên.
+Bạn cũng cần bắt đầu xây dựng một bộ _mining deck_ (bộ thẻ mining). Một bộ thẻ mining là một bộ thẻ Anki bạn tự tạo mà khi thông qua các nội dung mà bạn tiêu thụ, bạn sẽ "đào" từ vựng từ câu mà bạn tiếp xúc trong lúc immerse. Việc tạo một bộ thẻ mining là một chủ đề lớn và sẽ được giải thích kĩ hơn ở bài viết [Mining](/ngoai-ngu/mining/). Bạn nên bắt đầu nghe ngoại ngữ càng sớm càng tốt. Bạn có thể tìm gợi ý nội dung để tiêu thụ ở trong trang [Tài nguyên](resources.md). Tìm nội dung bạn thích, bất kì thứ gì miễn là ở ngôn ngữ mục tiêu của bạn. Ban đầu, khả năng nghe của bạn sẽ kém hơn khả năng đọc rất nhiều. Và nếu có thể, thử đi tìm người bản ngữ để thực hành output (nói, viết) cùng. Sẽ thích hơn rất nhiều và cũng sẽ giúp cho bạn có động lực học.
 
-Mẹo:
+### Xem nhiều chương trình TV để học Tiếng Nga
 
-- Bắt đầu với sách bạn đã biết bằng tiếng Anh — ngữ cảnh sẽ giúp ích.
-- Đừng tra từng từ mới. Hãy đọc tiếp, để ý mẫu, và chỉ tra khi từ lặp lại nhiều lần.
-- Thêm câu hay vào bộ Anki của bạn.
+Học ngôn ngữ này qua TV HOÀN TOÀN khả thi—ngay cả khi bạn mới bắt đầu. Đây là lý do vì sao xem TV rất hiệu quả:
 
-Ngoài sách, hãy đọc bài báo, blog, hoặc truyện hài theo sở thích. Khi quan tâm tới nội dung, bạn sẽ đọc nhiều hơn — và đó là cách bạn tiến bộ.
+- Giải trí.
+- Nó dễ hiểu hơn vì mình vừa có thể đọc phụ đề, vừa nghe cảm xúc trong giọng nói, vừa nhìn những gì đang diễn ra trên màn hình.
+- Mình được nghe Tiếng Nga _tự nhiên_, chứ không phải giọng nói chậm và cẩn thận như trong bài giảng cho người mới.
 
-## Crosstalk & Language Partners
+Một số chương trình TV mình gợi ý:
 
-Nếu có thể, hãy thử crosstalk: bạn nói tiếng Việt còn người kia nói tiếng Nga. Đây là một trong những cách nhanh nhất để tăng khả năng hiểu.
+Dưới đây là một số chương trình TV Nga phổ biến và phù hợp để học tiếng Nga (từ dễ đến khó hơn, nhiều cái có phụ đề Anh/Nga trên Netflix/YouTube):
 
-Bạn có thể tìm đối tác trên HelloTalk, Tandem, hoặc Conversation Exchange. Hai người mình gợi ý:
+- **[Маша и Медведь (Masha and the Bear)](https://www.youtube.com/results?search_query=%D0%9C%D0%B0%D1%88%D0%B0+%D0%B8+%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C)** — Ít thoại, bạn cũng có thể xem [Peppa Pig bằng Tiếng Nga](https://www.youtube.com/@PeppaPigRussianOfficial)
+- **[Кухня (The Kitchen)](https://www.youtube.com/results?search_query=%D0%9A%D1%83%D1%85%D0%BD%D1%8F+%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)** — Sitcom hài hước về nhà hàng, từ vựng hàng ngày, dễ theo dõi.
+- **[Ералаш (Eralash)](https://www.youtube.com/results?search_query=%D0%95%D1%80%D0%B0%D0%BB%D0%B0%D1%88)** — Phim ngắn hài, rất ngắn gọn, phù hợp beginner.
+- **[Слово пацана](https://www.youtube.com/watch?v=QVSoNEqdXvU)** — Drama hiện đại, slang đường phố (xem với phụ đề).
 
-- Nikita – [inhalerussian@gmail.com](mailto:inhalerussian@gmail.com)
-- Sveta – [sveta.randomrussian@gmail.com](mailto:sveta.randomrussian@gmail.com)
+## Vậy thì tóm gọn lại, mình cần làm những gì để học Tiếng Nga?
 
-## Tiếp bước
+1. Học bảng chữ cái Tiếng Nga.
+2. Học [Russian Core 5000](https://ankiweb.net/shared/info/613414639) để xây dựng vốn từ cơ bản trước khi immerse. Hãy học cách sử dụng Anki qua [Học viện Anki](https://ankivn.com/guides/). Bạn cũng nên cài [Yomitan](https://yomitan.wiki) (Firefox/Chrome) để có thể tra từ bằng cách di chuột.
+3. Vì bạn sẽ học từ vựng song song với ngữ pháp, nên việc điều chỉnh tốc độ học là rất quan trọng. Điều này không có nghĩa là bạn không nên thử thách bản thân. Bạn có thể thay đổi số thẻ mới mỗi ngày trong Anki, nhưng hãy để mặc định trong vài ngày đầu để xem có phù hợp không. Tăng số thẻ nếu bạn thấy còn dư sức, và giảm nếu bạn cảm thấy quá tải (hoặc tự ép mình cố gắng hơn). Khi đã quen, tổng số thẻ cần ôn mỗi ngày thường gấp khoảng 10 lần số thẻ mới (ví dụ: 20 thẻ mới/ngày ≈ 200 thẻ ôn/ngày). Bạn nên đặt giới hạn trên cho số thẻ ôn mỗi ngày ở mức cao nhất có thể, vì việc bỏ lỡ ôn tập sẽ làm ảnh hưởng đến hệ thống lặp lại ngắt quãng (spaced repetition) của Anki. Nếu bạn không theo kịp, hãy giảm số thẻ mới thay vì giới hạn số thẻ ôn.
+4. Để học ngữ pháp, mình gợi ý [Học Tiếng Nga - Ngữ pháp (Việt Nga)](https://www.youtube.com/playlist?list=PLuhVQyudQQI5wdULjGvIx18VlOEFTZJRw) vì tìm được mỗi cái playlist này trên Youtube là bằng Tiếng Việt.
+5. Sau khi bạn đã học xong giáo trình ngữ pháp đã chọn, bạn có thể bắt đầu đọc Tiếng Nga. Mặc dù không bắt buộc, nhưng việc đọc sẽ dễ hơn nếu bạn đã đạt khoảng 1000--2000 từ vựng (bạn vẫn sẽ phải tra nhiều từ, nhưng sẽ đỡ vất vả hơn).
+6. Ở giai đoạn này, hầu hết mọi người bắt đầu tạo cho mình một mining deck riêng. Đây là bộ từ vựng mà bạn thêm các từ mới mà bạn học được thông qua quá trình immersion. Bạn nên sử dụng [tích hợp Yomitan với Anki](https://yomitan.wiki), cho phép tạo thẻ Anki mới chỉ với một cú nhấp chuột ([hướng dẫn](https://yomitan.wiki/anki)).
+7. Đọc nhiều hơn. Ban đầu việc đọc sẽ chậm, nhưng càng luyện tập bạn sẽ càng tiến bộ.
+8. Tận hưởng những nội dung hấp dẫn.
 
-Đây chính là giai đoạn mà bạn sẽ dành phần lớn thời gian: immerse, chú ý, rồi dần dần hấp thụ tiếng Nga cho đến khi nó trở thành một phần trong bạn.
+## Từ giờ trở đi
 
-1. Immersion — Nghe, đọc, xem. Để ngôn ngữ ngấm vào bạn.
-2. Chú ý — Để ý những từ, ngữ pháp, hoặc mẫu nổi bật.
-3. Học — Thêm vào Anki, tra ngữ pháp, hoặc tự đi tìm hiểu.
-4. Bắt gặp trong lần immerse tiếp theo để khiến cho khả năng ghi nhớ càng thêm vững chắc.
+Chà chà, chúc mừng nhé. Bạn đã hoàn thành chương trình này. Đến giai đoạn này, có lẽ bạn sẽ cảm thấy khá thoải mái với Tiếng Nga (và sẽ không còn là một ác mộng như thời còn mới học nữa). Bạn đã (hoặc gần như) đạt đến mức có thể "giao tiếp được". Bạn đã cảm thấy mình _bueno en español_ chưa? Có lẽ là chưa. Nhưng điều đó có quan trọng không? Thật ra là không. Nếu bạn đã đi được đến đây, nghĩa là bạn thực sự yêu thích ngôn ngữ này, và sự lưu loát không còn là mục tiêu duy nhất nữa. Việc học Tiếng Nga giờ đã trở thành một phần trong lối sống của bạn, và miễn là bạn tiếp tục học từ mới, cụm từ mới, thành ngữ, v.v., bạn chắc chắn sẽ đạt đến trình độ mong muốn.
+
+Hãy tiếp tục củng cố Tiếng Nga của bạn thông qua lượng lớn tiếp xúc, immersion và input (đầu vào) dễ hiểu (comprehensible input). Nếu có thể, thử đến bất kì đất nước nào nói Tiếng Nga (Như Nga, Argentina hay là Cuba chẳng hạn) để trải nghiệm văn hóa gắn liền với ngôn ngữ bạn đang học (và tất nhiên là để luyện Tiếng Nga nữa).
