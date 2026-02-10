@@ -12,10 +12,14 @@ nav:
     - 'Đọc Tiếng Nga': 'reading.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
   - 'Yomitan':
-    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
+    - 'Hướng dẫn cài đặt': 'yomitan.md'
+    - 'Mining với Anki & Yomitan': 'mining.md'
   - 'Tài nguyên': 
-    - 'Tài nguyên tự học': 'resources.md'
-    - 'Nội dung Tiếng Nga': 'recommendations.md' 
+    - 'Học': 'resources.md'
+    - 'Comprehensible Input': 'comprehensible-input.md'
+    - 'Nội dung Tiếng Nga': 'recommendations.md'
+    - 'Tham gia cộng đồng trên Discord': 'join.md'
+    
 theme:
   palette:
     # Palette toggle for light mode
@@ -37,6 +41,7 @@ theme:
         name: Switch to light mode
   logo: img/logo.png
   favicon: img/logo.png
+  custom_dir: overrides/
   features:
     - navigation.instant
     - navigation.sections
