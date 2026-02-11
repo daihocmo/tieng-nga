@@ -122,7 +122,7 @@ _đây là một video_
 
 Công cụ chính được sử dụng là **Anki**, một hệ thống flashcard lặp lại ngắt quãng giúp bạn ghi nhớ từ vựng và câu cơ bản theo thời gian. Tuy nhiên, cần nhấn mạnh rõ một điều: Anki chỉ là **công cụ hỗ trợ trí nhớ**, không phải là toàn bộ việc học Tiếng Nga. Nếu bạn chỉ học Anki mà không tiếp xúc với Tiếng Nga thật, thì bạn mới chỉ tiến bộ trong việc ôn tập thẻ Anki thôi, chứ khả năng Tiếng Nga vẫn chưa được cải thiện nhiều.
 
-Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**Ngaa1.5K**]() (Kéo xuống là thấy nút Download).
+Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**Ngaa1.5K**](https://ankiweb.net/shared/info/1818350083) (Kéo xuống là thấy nút Download).
 
 ## 2.3 Ngữ pháp
 
@@ -133,7 +133,6 @@ Dưới đây là một số hướng dẫn được xếp hạng dựa trên m�
 - [Học Tiếng Nga - Ngữ pháp (Việt Nga)](https://www.youtube.com/playlist?list=PLuhVQyudQQI5wdULjGvIx18VlOEFTZJRw)
 - [Russian Enthusiast](https://russianenthusiast.com/russian-grammar/) – rõ ràng và đầy đủ.
 - [RussianLearn](http://russianlearn.com/) – rất chi tiết, dùng để tra cứu.
-
 
 Đây là thời điểm tốt nhất để bắt đầu Immersion khi bạn đã học được một số cấu trúc ngữ pháp mới. Xem cách áp dụng ngữ pháp đã học vào thực tế sẽ giúp hiểu rõ hơn về chúng.
 
